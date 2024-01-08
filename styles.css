@@ -1,0 +1,19 @@
+body {
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+nav {
+    background-color: #4475ad;
+}
+.info {
+    background-color:#4B698B;
+    border: 3px solid #041D37;
+    color:lightgrey;
+ }
+ img {
+    border: 2px solid #041D37;
+ }
+ .boxes {
+    background-color:#4B698B;
+    border: 3px solid #041D37;
+    color:lightgrey;
+ }
